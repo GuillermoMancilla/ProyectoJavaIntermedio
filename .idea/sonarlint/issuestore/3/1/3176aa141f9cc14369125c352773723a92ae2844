@@ -1,0 +1,13 @@
+
+p
+java:S1104"NMake Id a static final constant or non-public and provide accessors if needed.(ºÄŠ²şÿÿÿÿ8›¿›ñ1
+w
+java:S1104"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑıÿÿÿÿ8œ¿›ñ1
+p
+java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿ü8œ¿›ñ1
+s
+java:S1104"QMake email a static final constant or non-public and provide accessors if needed.(¾Æ†Ëıÿÿÿÿ8œ¿›ñ1
+n	java:S116"MRename this field "Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÄŠ²şÿÿÿÿ8Ÿ¿›ñ1
+X	java:S125J"<This block of commented-out lines of code should be removed.(ëêß„8¨¿›ñ1
+`
+java:S1128"CRemove this unused import 'com.mindhub.homebanking.models.Account'.(ıµÍ²8åø°‘ñ1

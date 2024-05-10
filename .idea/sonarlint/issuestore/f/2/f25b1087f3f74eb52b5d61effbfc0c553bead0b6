@@ -1,0 +1,14 @@
+
+’	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Á‘V8ö¢¦¼ğ1J$ba294ed2-fd3d-4ca5-8c73-5cd393e69027
+…
+java:S1128"BRemove this unused import 'com.mindhub.homebanking.dto.ClientDTO'.(İÙšÙ8”ª‚Àğ1J$b87e34bd-9c21-43e8-a163-41e8004607aa
+†
+java:S1128"CRemove this unused import 'com.mindhub.homebanking.models.Account'.(ıµÍ²8”ª‚Àğ1J$d7c5ebe9-5d7e-4d1a-a6a7-0cb5f65f2396
+›
+java:S1128"SRemove this unused import 'com.mindhub.homebanking.repositories.AccountRepository'.(ÜØÂøÿÿÿÿ8”ª‚Àğ1J$a4882b4c-76b5-4576-bc71-b193f769dcd0
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8”ª‚Àğ1J$1234590b-d802-4638-9182-8e55dc1de99a
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8•ª‚Àğ1J$1f1f98e6-428e-4ee3-904c-a3306329ad6d
+‚
+java:S1128"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8•ª‚Àğ1J$ab6f92f7-cb44-4b2d-bf10-cf1bc682ddb4

@@ -1,0 +1,10 @@
+
+“	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŸï8Öåî»ğ1J$376bf117-1fd3-4ed8-9fdc-7f0f3bc44ac8
+d
+java:S1128"BRemove this unused import 'com.mindhub.homebanking.models.Client'.(ÔóÀûÿÿÿÿ8Ï¨‚Àğ1
+o
+java:S1128"RRemove this unused import 'com.mindhub.homebanking.repositories.ClientRepository'.(Ôµœ8Ï¨‚Àğ1
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8Ï¨‚Àğ1
+\
+java:S1128"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8Ğ¨‚Àğ1
