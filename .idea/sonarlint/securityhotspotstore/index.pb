@@ -69,3 +69,7 @@ Ghomebanking/src/main/java/com/mindhub/homebanking/models/CardColor.java,b\d\bd
 Rhomebanking/src/main/java/com/mindhub/homebanking/repositories/CardRepository.java,e\9\e92cfe5b4a9fa4033ef44698a2398a2cd16c86a1
 r
 Bhomebanking/src/main/java/com/mindhub/homebanking/dto/CardDTO.java,f\7\f73d1eb55c8a0a38e34693350cfcbcb2ca22d75b
+‡
+Whomebanking/src/main/java/com/mindhub/homebanking/configurations/WebAuthentication.java,b\8\b8f1880986173e93ded3db1e06a81fb4dada0322
+†
+Vhomebanking/src/main/java/com/mindhub/homebanking/configurations/WebAuthorization.java,a\f\af097087bb9836487a19d7492cae994a5cd2e844

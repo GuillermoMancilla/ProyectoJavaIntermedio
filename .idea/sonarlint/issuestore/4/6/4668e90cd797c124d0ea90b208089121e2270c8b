@@ -1,10 +1,16 @@
 
-“	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÐŸÌ8ò¦âŽñ1J$d96b272c-0de4-4094-8f98-d60492461077
-“	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò…Ö£8ò¦âŽñ1J$53038116-7f28-4894-9d33-0a9dbccb8fae
-“	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ»éÉ8ò¦âŽñ1J$f5fc1a7e-d816-4066-aa2e-3233e38d3b35
-˜	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¼Ô¦ÿÿÿÿÿ8ò¦âŽñ1J$a9f1325c-99b7-4a3e-84ca-2e7ab96119e2
-“	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ç½ñ8ò¦âŽñ1J$a9096611-3b04-419c-ad91-2cddef4a59db
-˜	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¢¼öýÿÿÿÿ8ò¦âŽñ1J$d5f3e14b-af54-4dcf-8b30-1a81dea97c8b
+“	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÐŸÌ8‹ ª§ö1J$902ed2e9-c521-4113-8f46-fb96094d8981
+“	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò…Ö£8‹ ª§ö1J$78747447-026c-448d-9e02-dba8ab2b4f30
+“	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ»éÉ8‹ ª§ö1J$5123d96a-5096-4400-a890-5f344d3391b4
+˜	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¼Ô¦ÿÿÿÿÿ8‹ ª§ö1J$c3455506-aec2-424c-ad61-0c15af6c7d76
+“	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ç½ñ8‹ ª§ö1J$ccda2646-6f44-434a-9801-662ba5b074a1
+˜	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¢¼öýÿÿÿÿ8Œ ª§ö1J$a0fb20f4-cce3-4eb4-8bb7-bfc508e267f8
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8” ª§ö1J$387904d1-7a18-4e8b-8c2a-939db15fde38
 u
-java:S1611"2Remove the parentheses around the "args" parameter(£Ù€ò8þ¦âŽñ1J$2ef4206d-0a9c-4451-ae1b-9cc63af86514
-ƒ	java:S125f"<This block of commented-out lines of code should be removed.(¥àÃ–þÿÿÿÿ8ƒ§âŽñ1J$5c82c2f8-f43e-41e8-835c-9ebdfb96dc3d
+java:S1611"2Remove the parentheses around the "args" parameter(£Ù€ò8™ ª§ö1J$f66e6452-3f71-4fa7-9bf4-890283cd3129
+~
+java:S6437"6Revoke and change this password, as it is compromised.(«Ö¾Ïøÿÿÿÿ8› ª§ö1J$c0edd94e-7d2c-4f1e-87bc-56c9ff4c534a
+y
+java:S6437$"6Revoke and change this password, as it is compromised.(þî§á8œ ª§ö1J$e2d57d41-aafb-462b-a4c8-de216194e6bc
+ƒ	java:S125n"<This block of commented-out lines of code should be removed.(¥àÃ–þÿÿÿÿ8¡ ª§ö1J$7a07671d-760b-40fc-af41-955e78a6dd91
