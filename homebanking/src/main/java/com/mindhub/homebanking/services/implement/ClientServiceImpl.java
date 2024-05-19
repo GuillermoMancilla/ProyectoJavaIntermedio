@@ -1,7 +1,9 @@
 package com.mindhub.homebanking.services.implement;
 
 import com.mindhub.homebanking.dto.ClientDTO;
+import com.mindhub.homebanking.models.Account;
 import com.mindhub.homebanking.models.Client;
+import com.mindhub.homebanking.repositories.AccountRepository;
 import com.mindhub.homebanking.repositories.ClientRepository;
 import com.mindhub.homebanking.services.ClientService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,6 +14,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.RequestParam;
 
+import java.time.LocalDate;
 import java.util.List;
 
 import static java.util.stream.Collectors.toList;
@@ -20,6 +23,9 @@ import static java.util.stream.Collectors.toList;
 public class ClientServiceImpl implements ClientService {
     @Autowired
     private ClientRepository clientRepository;
+
+    @Autowired
+    AccountRepository accountRepository;
 
     @Autowired
 
@@ -46,9 +52,34 @@ public class ClientServiceImpl implements ClientService {
         if (clientRepository.findByEmail(email) !=  null) {
             return new ResponseEntity<>("Name already in use", HttpStatus.FORBIDDEN);
         }
-        clientRepository.save(new Client(firstName, lastName, email, passwordEncoder.encode(password)));
+        Client client = new Client(firstName, lastName, email, passwordEncoder.encode(password));
+        clientRepository.save(client);
+
+
+        String newNumberAccount = "VIN-" + numberRandom(100000, 999999);
+        Account newAccount = new Account(newNumberAccount, LocalDate.now(),0);
+        client.addClient(newAccount);
+        accountRepository.save(newAccount);
 
         return new ResponseEntity<>(HttpStatus.CREATED);
 
+    }
+
+    public  ResponseEntity<Object> registeracc(Authentication authentication){
+        Client client = clientRepository.findByEmail(authentication.getName());
+        if (client.getAccounts().size()>=3){
+            return new ResponseEntity<>("client already has 3 accounts",HttpStatus.FORBIDDEN);
+        }
+
+        String newNumberAccount = "VIN-" + numberRandom(100000, 999999);
+
+        Account newAccount = new Account(newNumberAccount, LocalDate.now(),0);
+        client.addClient(newAccount);
+        accountRepository.save(newAccount);
+
+        return new ResponseEntity<>(HttpStatus.CREATED);
+    }
+    private int numberRandom(int min, int max){
+        return min + (int) (Math.random() * (max - min + 1));
     }
 }

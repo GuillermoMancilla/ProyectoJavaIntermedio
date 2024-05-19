@@ -1,4 +1,5 @@
 Vue.createApp({
+
     data() {
         return {
             clientInfo: {},
@@ -10,20 +11,17 @@ Vue.createApp({
         getData: function () {
             axios.get("/api/clients/current")
                 .then((response) => {
-                    
                     //get client ifo
                     this.clientInfo = response.data;
                 })
                 .catch((error) => {
-                    
                     // handle error
                     this.errorMsg = "Error getting data";
                     this.errorToats.show();
                 })
-                
         },
-        formatDate: function (date) {
-            return new Date(date).toLocaleDateString('en-gb');
+        formatDate: function (creationDate) {
+            return new Date(creationDate).toLocaleDateString('en-us');
         },
         signOut: function () {
             axios.post('/api/logout')

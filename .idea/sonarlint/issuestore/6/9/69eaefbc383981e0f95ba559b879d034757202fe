@@ -1,9 +1,13 @@
 
-’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÌšE8„ÀØ—ù1J$a076b37c-7bf5-40e8-bc13-0bb71697a7b9
+’	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÌšE8°‡™ù1J$c5c4c5e2-500e-4ba2-b317-67e025fc8df2
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÀØ—ù1J$c1e8f215-d781-4d60-a4c2-b55ab6450164
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8­°‡™ù1J$148c5969-30e8-42ab-bd84-ebb29bde088d
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÀØ—ù1J$5d242e0a-9b5c-4860-be61-112f5ac5fc4a
-ƒ	java:S125 "<This block of commented-out lines of code should be removed.(ÿÛŞıÿÿÿÿ8“ÀØ—ù1J$d9235eaa-ea09-4dab-84c2-63ceaf21b83c
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8­°‡™ù1J$2cd62d4b-9728-4eb1-8764-7960603e0a93
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8­°‡™ù1J$cd2c65fc-4461-4713-a0bc-a18f8339ac9e
+ƒ	java:S125&"<This block of commented-out lines of code should be removed.(ÿÛŞıÿÿÿÿ8´°‡™ù1J$63ba02ce-bae3-4fff-98f8-234323f2bb40
+q
+java:S2140S")Use "java.util.Random.nextInt()" instead.(»‹ßúÿÿÿÿ8º°‡™ù1J$5d14531d-5800-411d-8b6a-a1d052879a5e
 ™
-java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8ÄšŞ—ù1J$d2f70eb7-03f3-4fb2-92ac-2f0a7330959a
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8‡ˆˆ™ù1J$286a0598-38e7-4374-9494-1378ddf7ad5b

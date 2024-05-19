@@ -29,12 +29,13 @@ public class HomebankingApplication {
 										ClientLoanRepository clientLoanRepository, CardRepository cardRepository){
 		return (args) -> {
 			Client client1 = new Client("Mane", "prim", "prim@mail.cl", passwordEncoder.encode("test1"));
-			Account acc1 = new Account("VIN0001", LocalDate.now(),5000);
-			Account acc2 = new Account("VIN0002", LocalDate.now().plusDays(1),7500);
+			Account acc1 = new Account("VIN-000001", LocalDate.now(),5000);
+			Account acc2 = new Account("VIN-000002", LocalDate.now().plusDays(1),7500);
+			Account accm3 = new Account("VIN-000004", LocalDate.now().plusDays(1),7500);
 
 
 			Client client2 = new Client("James", "Hetfield", "JH@mail.cl",passwordEncoder.encode("test2"));
-			Account acc3 = new Account("VIN0003", LocalDate.now(),10000);
+			Account acc3 = new Account("VIN-000003", LocalDate.now(),10000);
 
 			Client userAdmin = new Client("Admin","ADM","admin@admin.cl",passwordEncoder.encode("admin"));
 
@@ -45,8 +46,10 @@ public class HomebankingApplication {
 
 			client1.addClient(acc1);
 			client1.addClient(acc2);
+			client1.addClient(accm3);
 			accountRepository.save(acc1);
 			accountRepository.save(acc2);
+			accountRepository.save(accm3);
 			client2.addClient(acc3);
 			accountRepository.save(acc3);
 
