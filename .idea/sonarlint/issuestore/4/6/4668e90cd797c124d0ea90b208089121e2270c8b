@@ -1,16 +1,18 @@
 
-“	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙĞŸÌ8‹ ª§ö1J$902ed2e9-c521-4113-8f46-fb96094d8981
-“	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò…Ö£8‹ ª§ö1J$78747447-026c-448d-9e02-dba8ab2b4f30
-“	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ»éÉ8‹ ª§ö1J$5123d96a-5096-4400-a890-5f344d3391b4
-˜	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¼Ô¦ÿÿÿÿÿ8‹ ª§ö1J$c3455506-aec2-424c-ad61-0c15af6c7d76
-“	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ç½ñ8‹ ª§ö1J$ccda2646-6f44-434a-9801-662ba5b074a1
-˜	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¢¼öıÿÿÿÿ8Œ ª§ö1J$a0fb20f4-cce3-4eb4-8bb7-bfc508e267f8
+“	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙĞŸÌ8şÍê”ù1J$e0f0efb9-d9e4-47a4-b1dd-1e74797774f8
+“	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò…Ö£8ÿÍê”ù1J$a966efd1-3f89-4a28-9259-9f72ef48521f
+“	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ»éÉ8ÿÍê”ù1J$6f61df40-0199-437e-b7a1-dec096f093c6
+˜	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¼Ô¦ÿÿÿÿÿ8ÿÍê”ù1J$2c8df66d-c6fe-4f13-bbaa-8a26144ed041
+“	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ç½ñ8ÿÍê”ù1J$9c39a8ee-53ff-4945-a99f-6d1a424139ba
+˜	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¢¼öıÿÿÿÿ8ÿÍê”ù1J$e361b97d-4496-4ad7-b137-d82417ae2e35
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8” ª§ö1J$387904d1-7a18-4e8b-8c2a-939db15fde38
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‡Îê”ù1J$82c71585-c4d4-4e0f-becd-c3901c200694
 u
-java:S1611"2Remove the parentheses around the "args" parameter(£Ù€ò8™ ª§ö1J$f66e6452-3f71-4fa7-9bf4-890283cd3129
+java:S1611"2Remove the parentheses around the "args" parameter(£Ù€ò8Îê”ù1J$d2884b6c-c907-45a1-b3b4-9ce65e3b3596
 ~
-java:S6437"6Revoke and change this password, as it is compromised.(«Ö¾Ïøÿÿÿÿ8› ª§ö1J$c0edd94e-7d2c-4f1e-87bc-56c9ff4c534a
+java:S6437"6Revoke and change this password, as it is compromised.(«Ö¾Ïøÿÿÿÿ8Îê”ù1J$57d363cc-9e81-4abd-a4e8-71588319d47c
 y
-java:S6437$"6Revoke and change this password, as it is compromised.(şî§á8œ ª§ö1J$e2d57d41-aafb-462b-a4c8-de216194e6bc
-ƒ	java:S125n"<This block of commented-out lines of code should be removed.(¥àÃ–şÿÿÿÿ8¡ ª§ö1J$7a07671d-760b-40fc-af41-955e78a6dd91
+java:S6437$"6Revoke and change this password, as it is compromised.(şî§á8Îê”ù1J$a00594ab-6262-4cc2-9dfc-2fa0e4d5c583
+~
+java:S6437'"6Revoke and change this password, as it is compromised.(Ò­ôªşÿÿÿÿ8Îê”ù1J$1217064c-1a83-42cc-a782-be956ba8eb76
+ƒ	java:S125p"<This block of commented-out lines of code should be removed.(¥àÃ–şÿÿÿÿ8™Îê”ù1J$c1cadaa0-75e8-4347-b287-67b6e03f35ee

@@ -1,10 +1,12 @@
 
-“	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŸï8Öåî»ğ1J$376bf117-1fd3-4ed8-9fdc-7f0f3bc44ac8
+“	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŸï8æïÉ–ù1J$0cf9e410-cf3a-4d32-82bc-769d92da7c25
+
+java:S4488,"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(½ûÿœ8ïïÉ–ù1J$aa8ae0e8-83b4-471c-8b67-2a88b2a0e056
 d
-java:S1128"BRemove this unused import 'com.mindhub.homebanking.models.Client'.(ÔóÀûÿÿÿÿ8Ï¨‚Àğ1
+java:S1128"BRemove this unused import 'com.mindhub.homebanking.models.Client'.(ÔóÀûÿÿÿÿ8Ş¬ì—ù1
 o
-java:S1128"RRemove this unused import 'com.mindhub.homebanking.repositories.ClientRepository'.(Ôµœ8Ï¨‚Àğ1
+java:S1128"RRemove this unused import 'com.mindhub.homebanking.repositories.ClientRepository'.(Ôµœ8Ş¬ì—ù1
 u
-java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8Ï¨‚Àğ1
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ß¬ì—ù1
 \
-java:S1128"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8Ğ¨‚Àğ1
+java:S1128"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8ß¬ì—ù1

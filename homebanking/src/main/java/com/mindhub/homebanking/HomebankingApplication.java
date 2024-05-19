@@ -36,9 +36,11 @@ public class HomebankingApplication {
 			Client client2 = new Client("James", "Hetfield", "JH@mail.cl",passwordEncoder.encode("test2"));
 			Account acc3 = new Account("VIN0003", LocalDate.now(),10000);
 
+			Client userAdmin = new Client("Admin","ADM","admin@admin.cl",passwordEncoder.encode("admin"));
 
 			clientRepository.save(client1);
 			clientRepository.save(client2);
+			clientRepository.save(userAdmin);
 
 
 			client1.addClient(acc1);
