@@ -1,4 +1,6 @@
 
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏàÒº8Ú¬¨˜ù1J$82d03887-12ea-4921-9d47-75376f77d7a4
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏàÒº8Ú¬¨˜ù1J$8e471a1b-8b96-4246-8506-ce3aca801ad6
 Š
-java:S1128"BRemove this unused import 'com.mindhub.homebanking.models.Client'.(ÔóÀûÿÿÿÿ8Ş¬¨˜ù1J$3aba768b-25f4-4946-8abd-7c1ab910b0a9
+java:S1128"BRemove this unused import 'com.mindhub.homebanking.models.Client'.(ÔóÀûÿÿÿÿ8Ş¬¨˜ù1J$0862778d-5444-415d-8355-9141bb8fbacb
+Œ
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8ûºé™ù1J$5af4c020-e497-4132-b601-4d534dbe48db

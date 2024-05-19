@@ -1,13 +1,22 @@
 
-’	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÌšE8ž°‡™ù1J$c5c4c5e2-500e-4ba2-b317-67e025fc8df2
+’	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÌšE8ž°‡™ù1J$778fd460-4bda-49a9-8b33-9fb3de5467f6
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8­°‡™ù1J$148c5969-30e8-42ab-bd84-ebb29bde088d
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8­°‡™ù1J$280b5b61-8478-44f7-9cc5-a983228c7615
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8­°‡™ù1J$2cd62d4b-9728-4eb1-8764-7960603e0a93
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8­°‡™ù1J$ec5d407f-e05b-4015-bcc1-70c4b681a7c4
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8­°‡™ù1J$cd2c65fc-4461-4713-a0bc-a18f8339ac9e
-ƒ	java:S125&"<This block of commented-out lines of code should be removed.(ÿÛÞýÿÿÿÿ8´°‡™ù1J$63ba02ce-bae3-4fff-98f8-234323f2bb40
-q
-java:S2140S")Use "java.util.Random.nextInt()" instead.(»‹ßúÿÿÿÿ8º°‡™ù1J$5d14531d-5800-411d-8b6a-a1d052879a5e
-™
-java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8‡ˆˆ™ù1J$286a0598-38e7-4374-9494-1378ddf7ad5b
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8­°‡™ù1J$9e29dbf6-2804-4cf2-9555-bd5bb6b427d4
+ƒ	java:S125&"<This block of commented-out lines of code should be removed.(ÿÛÞýÿÿÿÿ8´°‡™ù1J$e9c0f7f2-ad38-421b-b81e-ed308cc588ab
+`
+java:S1128"CRemove this unused import 'com.mindhub.homebanking.models.Account'.(ýµÍ²8‡íñ™ù1
+d
+java:S1128"BRemove this unused import 'com.mindhub.homebanking.models.Client'.(ÔóÀûÿÿÿÿ8‡íñ™ù1
+b
+java:S1128
+"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8‡íñ™ù1
+f
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8‡íñ™ù1
+s
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8‡íñ™ù1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ8‡íñ™ù1

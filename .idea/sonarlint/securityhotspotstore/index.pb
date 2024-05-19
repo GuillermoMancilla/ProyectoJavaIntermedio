@@ -73,3 +73,15 @@ Bhomebanking/src/main/java/com/mindhub/homebanking/dto/CardDTO.java,f\7\f73d1eb
 Whomebanking/src/main/java/com/mindhub/homebanking/configurations/WebAuthentication.java,b\8\b8f1880986173e93ded3db1e06a81fb4dada0322
 Ü
 Vhomebanking/src/main/java/com/mindhub/homebanking/configurations/WebAuthorization.java,a\f\af097087bb9836487a19d7492cae994a5cd2e844
+Å
+Q.idea/sonarlint/securityhotspotstore/a/f/af097087bb9836487a19d7492cae994a5cd2e844,b\c\bce95577476f117d6e383ab780568de718ec59c8
+Å
+Q.idea/sonarlint/securityhotspotstore/b/8/b8f1880986173e93ded3db1e06a81fb4dada0322,e\a\ea505998b05b5cb2203c3ef8aab6daeaae6e79f6
+w
+G.idea/sonarlint/issuestore/b/c/bce95577476f117d6e383ab780568de718ec59c8,7\9\790c50d4611a2991e32c09fe897753912dbba70b
+Å
+Q.idea/sonarlint/securityhotspotstore/b/c/bce95577476f117d6e383ab780568de718ec59c8,0\1\0128087b4f8fbfb0a9096b0f90846f6b830b78d7
+w
+G.idea/sonarlint/issuestore/e/a/ea505998b05b5cb2203c3ef8aab6daeaae6e79f6,c\b\cbac28ecefb45c34d5e6cbb64b1c4334755b4e08
+Å
+Q.idea/sonarlint/securityhotspotstore/e/a/ea505998b05b5cb2203c3ef8aab6daeaae6e79f6,a\a\aa8e23ef4d2b30b8ce12affd50f3b44adafddabb

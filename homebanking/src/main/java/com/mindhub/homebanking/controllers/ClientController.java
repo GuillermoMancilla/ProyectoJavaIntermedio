@@ -41,19 +41,5 @@ public class ClientController {
         return clientService.getCurrent(authentication);
     }
 
-    @RequestMapping(path = "/clients", method = RequestMethod.POST)
 
-    public ResponseEntity<Object> register(
-
-            @RequestParam String firstName, @RequestParam String lastName,
-
-            @RequestParam String email, @RequestParam String password) {
-
-        return clientService.register(firstName, lastName, email, password);
-    }
-
-    @RequestMapping(path = "clients/current/accounts", method = RequestMethod.POST)
-    public  ResponseEntity<Object> register(Authentication authentication){
-        return clientService.registeracc(authentication);
-    }
 }

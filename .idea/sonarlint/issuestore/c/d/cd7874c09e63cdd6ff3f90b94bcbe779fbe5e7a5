@@ -1,6 +1,12 @@
 
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿß“ÿÿÿÿÿ8ò°¨¼ğ1J$86d1b5a7-ce7c-4466-8877-926697c6512a
+˜	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿß“ÿÿÿÿÿ8ò°¨¼ğ1J$1f31a9cc-15c8-41ac-b108-6f49c05c114f
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ù°¨¼ğ1J$0778ca60-2bc4-4857-8595-1f03e5c6ce8f
-s
-java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8—©‚Àğ1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ù°¨¼ğ1J$112603e7-e8bf-48a4-b134-8ab401a213ff
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8È™è™ù1J$7b3fbb03-5cd0-401f-bc13-c007568ee478
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8àè™ù1J$dbd59d87-5f25-45e4-930e-b35c979a4137
+q
+java:S2140N")Use "java.util.Random.nextInt()" instead.(»‹ßúÿÿÿÿ8ÜÛå™ù1J$4ed7dcc2-8643-4d67-aec6-596a0fe5724f
+™
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8¦àè™ù1J$a7df1dff-e083-4566-9b5a-34daa96941ed
