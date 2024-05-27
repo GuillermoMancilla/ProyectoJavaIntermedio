@@ -1,18 +1,18 @@
 
-’	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Á‘V8ö¢¦¼ğ1J$6c46b318-1a0b-46e4-9550-dea93890df03
+’	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Á‘V8„‹ú1J$36d15247-19bc-4ee8-b8a5-906040116c28
 
-java:S4488'"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(½ûÿœ8°…ä™ù1J$559bc349-0b2d-4fe9-862c-6b79edd761f8
+java:S4488'"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(½ûÿœ8˜‹ú1J$d2f2e840-eda5-4022-80fd-c273771f5761
 ’
-java:S44882"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Š“ıàûÿÿÿÿ8±…ä™ù1J$85ca0be4-1b1b-4fee-b64a-ed25f7a1c21d
-_
-java:S1128"BRemove this unused import 'com.mindhub.homebanking.dto.ClientDTO'.(İÙšÙ8Âìñ™ù1
-`
-java:S1128"CRemove this unused import 'com.mindhub.homebanking.models.Account'.(ıµÍ²8Âìñ™ù1
-u
-java:S1128"SRemove this unused import 'com.mindhub.homebanking.repositories.AccountRepository'.(ÜØÂøÿÿÿÿ8Âìñ™ù1
-u
-java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8Âìñ™ù1
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Âìñ™ù1
-\
-java:S1128"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8Âìñ™ù1
+java:S44882"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Š“ıàûÿÿÿÿ8‹ú1J$d8175f3d-b179-44bd-99cb-f024d3eeb245
+…
+java:S1128"BRemove this unused import 'com.mindhub.homebanking.dto.ClientDTO'.(İÙšÙ8ñ©ÖÕû1J$799b93b8-eb34-407e-b4db-6fc0f9d8b855
+†
+java:S1128"CRemove this unused import 'com.mindhub.homebanking.models.Account'.(ıµÍ²8ñ©ÖÕû1J$90e4276f-47e0-41f5-b4ed-af56d4a93c88
+›
+java:S1128"SRemove this unused import 'com.mindhub.homebanking.repositories.AccountRepository'.(ÜØÂøÿÿÿÿ8ñ©ÖÕû1J$d71c0253-4a06-4e35-97f9-bc5bf927ed4d
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ñ©ÖÕû1J$e32372ea-a271-46f7-92bc-5bbc58ddde1c
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ñ©ÖÕû1J$a684fba8-5127-4b28-b050-bb5fee23e7d6
+‚
+java:S1128"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8ñ©ÖÕû1J$d181c205-e4fa-438d-957c-a036eeb5c130

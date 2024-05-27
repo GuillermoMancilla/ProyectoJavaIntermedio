@@ -55,21 +55,21 @@ public class HomebankingApplication {
 
 			//Transactions
 			Transaction Transaction1A1 = new Transaction(TransactionType.CREDIT,100,"compra 1",LocalDate.now());
-			Transaction Transaction2A1 = new Transaction(TransactionType.DEBIT,200,"pago 1",LocalDate.now());
+			Transaction Transaction2A1 = new Transaction(TransactionType.DEBIT,-200,"pago 1",LocalDate.now());
 			acc1.addAccount(Transaction1A1);
 			acc1.addAccount(Transaction2A1);
 			transactionRepository.save(Transaction1A1);
 			transactionRepository.save(Transaction2A1);
 
 			Transaction Transaction1A2 = new Transaction(TransactionType.CREDIT,200,"compra 5",LocalDate.now());
-			Transaction Transaction2A2 = new Transaction(TransactionType.DEBIT,100,"pago 5",LocalDate.now());
+			Transaction Transaction2A2 = new Transaction(TransactionType.DEBIT,-100,"pago 5",LocalDate.now());
 			acc2.addAccount(Transaction1A2);
 			acc2.addAccount(Transaction2A2);
 			transactionRepository.save(Transaction1A2);
 			transactionRepository.save(Transaction2A2);
 
 			Transaction Transaction1A3 = new Transaction(TransactionType.CREDIT,300,"compra 9",LocalDate.now());
-			Transaction Transaction2A3 = new Transaction(TransactionType.DEBIT,500,"pago 15",LocalDate.now());
+			Transaction Transaction2A3 = new Transaction(TransactionType.DEBIT,-500,"pago 15",LocalDate.now());
 			acc3.addAccount(Transaction1A3);
 			acc3.addAccount(Transaction2A3);
 			transactionRepository.save(Transaction1A3);
@@ -99,11 +99,11 @@ public class HomebankingApplication {
 			clientLoanRepository.save(clientLoan4);
 
 			Card card1 = new Card(client1.getFirstName()+" "+client1.getLastName(),CardType.DEBIT,
-					CardColor.GOLD,"1234-5678",364,LocalDate.now(),LocalDate.now().plusYears(5),client1);
+					CardColor.GOLD,"1234-5678-9876-5432",364,LocalDate.now(),LocalDate.now().plusYears(5),client1);
 			Card card2 = new Card(client1.getFirstName()+" "+client1.getLastName(),CardType.CREDIT,
-					CardColor.TITANIUM,"8765-4321",155,LocalDate.now(),LocalDate.now().plusYears(5),client1);
+					CardColor.TITANIUM,"8765-4321-2345-6789",155,LocalDate.now(),LocalDate.now().plusYears(5),client1);
 			Card card3 = new Card(client2.getFirstName()+" "+client2.getLastName(),CardType.CREDIT,
-					CardColor.SILVER,"1472-8521",164,LocalDate.now(),LocalDate.now().plusYears(5),client2);
+					CardColor.SILVER,"1472-8521-2456-1478",164,LocalDate.now(),LocalDate.now().plusYears(5),client2);
 
 			cardRepository.save(card1);
 			cardRepository.save(card2);

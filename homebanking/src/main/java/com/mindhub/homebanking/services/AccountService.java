@@ -13,4 +13,5 @@ public interface AccountService {
     ResponseEntity<Object> register(String firstName, String lastName, String email, String password);
 
     public  ResponseEntity<Object> registeracc(Authentication authentication);
+    public List<AccountDTO>getCurrentAccounts(Authentication authentication);
 }

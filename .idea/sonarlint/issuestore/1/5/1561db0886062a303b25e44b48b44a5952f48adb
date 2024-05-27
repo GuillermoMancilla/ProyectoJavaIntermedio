@@ -1,12 +1,12 @@
 
-“	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŸï8íÛş˜ù1J$71536479-79c1-4149-b8f8-41dc10669e3c
+“	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŸï8íÛş˜ù1J$60ea8dcf-b25f-440e-bd90-d36dc1ba5a77
 Š
-java:S1128"BRemove this unused import 'com.mindhub.homebanking.models.Client'.(ÔóÀûÿÿÿÿ8ùÛş˜ù1J$a5ef104c-7944-4d34-a0d6-b5acfe8a2fd1
+java:S1128"BRemove this unused import 'com.mindhub.homebanking.models.Client'.(ÔóÀûÿÿÿÿ8ùÛş˜ù1J$b9582e44-3604-49c1-834b-fa003aa82f29
 •
-java:S1128"RRemove this unused import 'com.mindhub.homebanking.repositories.ClientRepository'.(Ôµœ8ùÛş˜ù1J$26e74b62-23b8-4d2e-8359-e3db6df685ab
+java:S1128"RRemove this unused import 'com.mindhub.homebanking.repositories.ClientRepository'.(Ôµœ8ùÛş˜ù1J$e00eee4b-56a7-4778-ace0-1e1bed61b942
 ›
-java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ùÛş˜ù1J$192cbe2b-b881-43d6-a688-add29a6b4f1e
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ùÛş˜ù1J$c1c1c549-f25a-4ee2-8387-83bfd9c5640a
 Œ
-java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8“æã™ù1J$1a8bd2c6-d3b2-42a1-9e78-d174703e85b5
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8“æã™ù1J$d1a7fdba-8601-4c20-94d7-df2b345cedb7
 ‚
-java:S1128"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8ùÛş˜ù1J$e38e0ab1-de5b-4c2f-8b28-f836a99a2de2
+java:S1128"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8ùÛş˜ù1J$35cc514d-853a-4fe2-ba1d-6a6e4a8546c6

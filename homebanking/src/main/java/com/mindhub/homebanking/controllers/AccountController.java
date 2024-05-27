@@ -51,4 +51,9 @@ public class AccountController {
     public  ResponseEntity<Object> register(Authentication authentication){
         return accountService.registeracc(authentication);
     }
+
+    @RequestMapping(path = "clients/current/accounts")
+    public  List<AccountDTO> getAccounts(Authentication authentication){
+        return accountService.getCurrentAccounts(authentication);
+    }
 }

@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 import java.time.LocalDate;
 import java.util.List;
+import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.toList;
 
@@ -73,6 +74,12 @@ public class AccountServiceImpl implements AccountService {
         accountRepository.save(newAccount);
 
         return new ResponseEntity<>(HttpStatus.CREATED);
+    }
+
+    public List<AccountDTO>getCurrentAccounts(Authentication authentication)
+    {
+        Client client = clientRepository.findByEmail(authentication.getName());
+        return client.getAccounts().stream().map(AccountDTO::new).collect(toList());
     }
     private int numberRandom(int min, int max){
         return min + (int) (Math.random() * (max - min + 1));
